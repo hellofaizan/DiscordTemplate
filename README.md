@@ -17,6 +17,8 @@
 6. Run `npm init` in terminal and start filling the details.
 7. Run `node index.js` in terminal to start the bot.
 
+BTW Discord Bot making in muc easier in Python. Checkout [Discord.py 14 Slash Command Template](https://github.com/hellofaizan/Discod.pyTemplate)
+
 ### That's it. You are done. Now you can start coding
 
 ## 📜 License

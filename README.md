@@ -2,6 +2,8 @@
 
 🤖 Discord JS 14 Bot Template. Developed by [HelloFaizan](https://l.hellofaizan.me/)
 
+### Let me tell you first Discord Bot making in much easier in Python. Checkout [Discord.py 14 Slash Command Template](https://github.com/hellofaizan/Discod.pyTemplate)
+
 ## 📝 Features
 
 - [x] Slash Commands. Its just a template. You expected more. Huh?
@@ -16,8 +18,6 @@
 5. Rename `.env.example` to `.env` and paste the `bot token` in it. (You can get it from [here](https://discord.com/developers/applications))
 6. Run `npm init` in terminal and start filling the details.
 7. Run `node index.js` in terminal to start the bot.
-
-BTW Discord Bot making in muc easier in Python. Checkout [Discord.py 14 Slash Command Template](https://github.com/hellofaizan/Discod.pyTemplate)
 
 ### That's it. You are done. Now you can start coding
 

@@ -1,4 +1,4 @@
-# DisocrdTemplate
+# DiscordTemplate
 
 🤖 Discord JS 14 Bot Template. Developed by [HelloFaizan](https://l.hellofaizan.me/)
 

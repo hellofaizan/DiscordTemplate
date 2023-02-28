@@ -2,8 +2,8 @@ const { REST } = require("@discordjs/rest");
 const { Routes } = require('discord-api-types/v9');
 const fs = require('fs');
 
-const clientId = '1076577779845435462'; 
-const guildId = '1064854195389345813'; 
+const clientId = '*******************'; // Your Discord Bot client ID
+const guildId = '*******************'; // Your Discord Server ID just for testing
 
 module.exports = (client) => {
     client.handleCommands = async (commandFolders, path) => {
@@ -28,7 +28,7 @@ module.exports = (client) => {
                 await rest.put(
                     // If public Bot, use Routes.applicationCommands(clientId)
                     // If private Bot, use Routes.applicationGuildCommands(clientId, guildId)
-                    Routes.applicationGuildCommands(clientId, guildId), {
+                    Routes.applicationCommands(clientId), {
                         body: client.commandArray
                     },
                 );

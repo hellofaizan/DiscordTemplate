@@ -13,11 +13,10 @@
 
 1. Click on the `Use this template` button.
 2. It will make a reposotory for you. Clone it.
-3. Run `npm i discord.js` in terminal to install all the dependencies.
-4. Run `npm i dotenv` in terminal to install `dotenv` package.
-5. Rename `.env.example` to `.env` and paste the `bot token` in it. (You can get it from [here](https://discord.com/developers/applications))
-6. Run `npm init` in terminal and start filling the details.
-7. Run `node index.js` in terminal to start the bot.
+3. Run `npm i discord.js dotenv nodemon` in terminal to install all the dependencies.
+4. Rename `.env.example` to `.env` and paste the `bot token` in it. (You can get it from [here](https://discord.com/developers/applications))
+5. Run `npm init` in terminal and start filling the details.
+6. Run `nodemon index.js` in terminal to start the bot.
 
 ### That's it. You are done. Now you can start coding
 

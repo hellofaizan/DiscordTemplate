@@ -17,6 +17,8 @@
 4. Rename `.env.example` to `.env` and paste the `bot token` in it. (You can get it from [here](https://discord.com/developers/applications))
 5. Run `npm init` in terminal and start filling the details.
 6. Go to `src/functions/hanelCommand.js` and change the `clientID` to your Discord Application Client ID.
+   ![image](https://user-images.githubusercontent.com/84437051/223615251-52ad4c64-bdcf-4f31-bdc5-87d68fa8fd2e.png)
+
 7. Run `nodemon index.js` in terminal to start the bot.
 
 ### That's it. You are done. Now you can start coding

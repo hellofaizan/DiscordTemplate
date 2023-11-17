@@ -13,9 +13,9 @@
 
 1. Click on the `Use this template` button.
 2. It will make a reposotory for you. Clone it.
-3. Run `npm i discord.js dotenv nodemon` in terminal to install all the dependencies.
-4. Rename `.env.example` to `.env` and paste the `bot token` in it. (You can get it from [here](https://discord.com/developers/applications))
-5. Run `npm init` in terminal and start filling the details.
+3. Run `npm init` in terminal and start filling the details.
+4. Run `npm i discord.js dotenv nodemon` in terminal to install all the dependencies.
+5. Rename `.env.example` to `.env` and paste the `bot token` in it. (You can get it from [here](https://discord.com/developers/applications))
 6. Go to `src/functions/hanelCommand.js` and change the `clientID` to your Discord Application Client ID.
 
 
